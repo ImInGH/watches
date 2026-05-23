@@ -1,0 +1,94 @@
+{
+    "watches": [
+        {
+            "eventId": "29174",
+            "viewCode": "Patio_de_butacas",
+            "label": "PAGAGNINI - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "laestacion",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "51999",
+            "viewCode": "Patio_de_butacas",
+            "label": "Flamenc Oh! - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "laestacion",
+            "minContiguous": 1,
+            "enabled": true
+        },
+        {
+            "eventId": "47863",
+            "viewCode": "V_Platea",
+            "label": "Lo Mejor de Yllana - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "tpavon",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "54813",
+            "viewCode": "V_PB",
+            "label": "Gag Movie - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "teatro_serrano",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "28985",
+            "viewCode": "Patio_de_butacas",
+            "label": "Opera Locos - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "laestacion",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "46668",
+            "viewCode": "V_PB",
+            "label": "CHEFS - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "teatro_serrano",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "48318",
+            "viewCode": "V_Platea",
+            "label": "666 - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "tpavon",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "23214",
+            "viewCode": "Patio_de_butacas",
+            "label": "Trash! - YLLANA · all dates",
+            "comment": "2026-05-22",
+            "venueId": "laestacion",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "46900",
+            "viewCode": "V_Platea",
+            "label": "El Imitador · all dates",
+            "comment": "2026-05-22",
+            "venueId": "tpavon",
+            "minContiguous": 2,
+            "enabled": true
+        },
+        {
+            "eventId": "46666",
+            "viewCode": "Patio_de_butacas",
+            "label": "Juana la Loca · all dates",
+            "comment": "2026-05-22",
+            "venueId": "teatro_serrano",
+            "minContiguous": 2,
+            "enabled": true
+        }
+    ]
+}
