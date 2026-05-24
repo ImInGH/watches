@@ -1,14 +1,6 @@
 {
     "watches": [
         {
-            "eventId": "55876",
-            "viewCode": "PatiodeButacas",
-            "label": "Una Excusa Perfecta · all dates",
-            "comment": "Arlequín, no venueId",
-            "minContiguous": 2,
-            "enabled": true
-        },
-        {
             "eventId": "29174",
             "viewCode": "Patio_de_butacas",
             "label": "PAGAGNINI - YLLANA · all dates",
