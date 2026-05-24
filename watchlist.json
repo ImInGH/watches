@@ -1,6 +1,15 @@
 {
     "watches": [
         {
+            "eventId": "55876",
+            "viewCode": "PatiodeButacas",
+            "label": "Una Excusa Perfecta · all dates",
+            "comment": "2026-05-22",
+            "venueId": "arlequin",
+            "minContiguous": 2,
+            "enabled": false
+        },
+        {
             "eventId": "29174",
             "viewCode": "Patio_de_butacas",
             "label": "PAGAGNINI - YLLANA · all dates",
