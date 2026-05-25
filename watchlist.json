@@ -6,7 +6,7 @@
             "label": "Una Excusa Perfecta · all dates",
             "comment": "2026-05-25, T Arlequín",
             "minContiguous": 2,
-            "enabled": false
+            "enabled": true
         },
         {
             "eventId": "29174",
